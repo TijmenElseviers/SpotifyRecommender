@@ -15,7 +15,7 @@ def check_dataframe_nolike():
     print(notLiked.tail())
 
 def console_tester():
-    print("All tests will be executed:\n\n")
+    print("\nAll tests will be executed:\n")
 
     check_dataframe_like()
     check_dataframe_nolike()

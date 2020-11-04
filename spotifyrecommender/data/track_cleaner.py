@@ -38,4 +38,4 @@ def clean_tracks(like):
     return pd.DataFrame(data=features, columns=features[0].keys())
 
 def clean_console():
-    print("No cleaning data to CSV has been implemented yet!")
+    print("\nNo cleaning data to CSV has been implemented yet!")
