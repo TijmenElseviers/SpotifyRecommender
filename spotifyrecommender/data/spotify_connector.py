@@ -1,5 +1,5 @@
 from spotipy.oauth2 import SpotifyClientCredentials
-from file_loader import get_file
+from data.file_loader import get_file
 import spotipy
 
 credential_file = "credentials.json"

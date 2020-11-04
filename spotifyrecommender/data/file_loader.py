@@ -1,6 +1,9 @@
 import json
+import os
 
-resource_folder = '../resources/'
+resource_folder = 'resources/'
+filedir = os.path.dirname(os.path.realpath('__file__'))
 
 def get_file(filename):
-    return json.load(open(resource_folder + filename))
+    relative_path = os.path.join(filedir, resource_folder+filename)
+    return json.load(open(relative_path))
