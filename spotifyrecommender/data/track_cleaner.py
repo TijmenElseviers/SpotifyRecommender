@@ -88,7 +88,4 @@ def full_to_csv(liked):
     dataframe = clean_tracks(liked)
     full_dataframe = get_audio_analysis(dataframe)
 
-    full_dataframe.to_csv(full_path, encoding='utf-8', index="false")
-
-def clean_console():
-    print("\nNo cleaning data to CSV has been implemented yet!")
+    full_dataframe.to_csv(full_path, encoding='utf-8', index="false", mode="w+")
