@@ -68,14 +68,14 @@ def get_audio_analysis(dataframe):
     num_segments = []
 
     for i in range(0, len(dataframe['id'])):
-        analysis = sp.audio_analysis(dataframe.iloc[i]['id'])
+        analysis = sp.audio_analysis(dataframe.loc[i]['id'])
         num_bars.append(len(analysis['bars']))
         num_sections.append(len(analysis['sections']))
         num_segments.append(len(analysis['segments']))
 
-    dataframe['num_bars'] = num_bars
-    dataframe['num_sections'] = num_sections
-    dataframe['num_segments'] = num_segments
+    dataframe.loc[:,'num_bars'] = num_bars
+    dataframe.loc[:,'num_sections'] = num_sections
+    dataframe.loc[:,'num_segments'] = num_segments
 
     return dataframe
 
