@@ -1,7 +1,8 @@
 import sys
-from data.track_cleaner import clean_console
+from data.track_cleaner import full_to_csv
 from tests.test_data import console_tester
 from recommendation.train_data import console_train_data
+import time
 
 def main():
     menu = True
@@ -18,7 +19,26 @@ def main():
         if(choice == 1):
                 console_tester()
         elif(choice == 2):
-                clean_console()
+                print("---------------------------------")
+                print("Starting Full Save to CSV (Liked)")
+                print("---------------------------------\n")
+                start_time = time.perf_counter()
+                full_to_csv(True)
+                end_time = time.perf_counter()
+                print("---------------------------------")
+                print("Stopping Full Save to CSV (Liked)")
+                print("Process took {0:0.4f} seconds".format(end_time - start_time))
+                print("---------------------------------\n")
+                print("---------------------------------")
+                print("Starting Full Save to CSV (Not liked)")
+                print("---------------------------------\n")
+                start_time = time.perf_counter()
+                full_to_csv(False)
+                end_time = time.perf_counter()
+                print("---------------------------------")
+                print("Stopping Full Save to CSV (Liked)")
+                print("Process took {0:0.4f} seconds".format(end_time - start_time))
+                print("---------------------------------\n")
         elif(choice == 3):
                 console_train_data()
         else:

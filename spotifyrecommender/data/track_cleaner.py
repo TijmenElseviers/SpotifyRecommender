@@ -2,6 +2,7 @@ from data.file_loader import get_file
 from data.spotify_connector import get_spotify_client_manager
 import numpy as np
 import pandas as pd
+import os
 
 playlists_file = "spotify_playlists.json"
 sp = get_spotify_client_manager()
@@ -77,6 +78,17 @@ def get_audio_analysis(dataframe):
     dataframe['num_segments'] = num_segments
 
     return dataframe
+
+def full_to_csv(liked):
+    resource_folder = 'resources/'
+    filedir = os.path.dirname(os.path.realpath('__file__'))
+    filename = "playlist_{}.csv".format(str(liked).lower())
+    full_path = os.path.join(filedir, resource_folder+filename)
+
+    dataframe = clean_tracks(liked)
+    full_dataframe = get_audio_analysis(dataframe)
+
+    full_dataframe.to_csv(full_path, encoding='utf-8', index="false")
 
 def clean_console():
     print("\nNo cleaning data to CSV has been implemented yet!")

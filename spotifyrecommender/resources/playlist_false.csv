@@ -1,0 +1,301 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,num_bars,num_sections,num_segments
+0,0WpRF4X2LyMTZnqqrXX19U,Get Jinxed,League of Legends,['League of Legends'],0.434,0.884,7,-7.128,0,0.000728,0.00458,0.105,0.191,180.029,154960,4,114,6,548
+1,3V2cgvvI483DKomiZBYsAA,Bangarang (feat. Sirah),Skrillex,"['Skrillex', 'Sirah']",0.716,0.972,7,-2.302,1,0.0145,3.22e-05,0.317,0.576,110.026,215253,4,99,10,1098
+2,3Te8uLyit6X3ncNW8Fp3K2,Immortals,Fall Out Boy,['Fall Out Boy'],0.616,0.868,2,-3.606,1,0.00131,1.54e-06,0.671,0.475,108.016,189387,4,83,9,629
+3,64lsIF5pw0sJY0gV5kz0RN,Can I Call You Tonight?,Dayglow,['Dayglow'],0.641,0.842,9,-7.27,1,0.132,0.91,0.419,0.5,129.98,278769,4,148,12,1027
+4,1foMv2HQwfQ2vntFf9HFeG,Rhinestone Eyes,Gorillaz,['Gorillaz'],0.676,0.703,8,-5.815,0,0.0869,0.000687,0.0463,0.852,92.761,200173,4,76,8,701
+5,6zVlVsPsDPdivbwfHE1ivu,Amylase,Cajun Dance Party,['Cajun Dance Party'],0.0994,0.947,5,-1.777,1,0.000577,9.09e-05,0.134,0.342,160.871,221507,4,145,8,583
+6,32zkKx35Et6A515oZKxDkD,Life Itself,Glass Animals,['Glass Animals'],0.699,0.67,1,-6.219,1,0.0147,0.22,0.356,0.556,111.988,281407,4,128,10,1114
+7,2Wd8OkULm6EDK8cqPJaNjp,Erika,Die lustigen Vagabunden,['Die lustigen Vagabunden'],0.637,0.344,8,-9.093,1,0.0477,0.83,0.0622,0.513,128.639,181293,3,125,8,555
+8,0AQquaENerGps8BQmbPw14,Big Iron,Marty Robbins,['Marty Robbins'],0.726,0.474,1,-7.834,0,0.803,0.0,0.258,0.57,116.027,235733,4,113,12,898
+9,1a3M9MU7mmhQerLzHSGD3w,My Beautiful Fantasy,Phuture Noize,"['Phuture Noize', 'B-Front']",0.319,0.865,2,-2.528,0,0.132,0.0,0.152,0.0845,155.174,192015,4,123,8,562
+10,01xdiGuSuIf5qZulm1uqkY,Feel It!,D-Block & S-te-Fan,"['D-Block & S-te-Fan', 'D-Sturb']",0.459,0.941,9,-2.053,0,0.0191,0.0,0.371,0.399,155.023,236903,4,152,12,821
+11,3tvFbMS6E3mk6KY3hJn3Ht,Danse Macabre - Kan Takahiko Remix,Naeleck,"['Naeleck', 'Oddity']",0.635,0.933,0,-4.264,1,0.00678,0.0236,0.343,0.151,150.06,267200,4,164,11,1023
+12,6AQpd05OyowTvtO7I3BdBU,Mellow,Showtek,"['Showtek', 'Technoboy', 'Tuneboy']",0.565,0.873,11,-2.973,0,0.045,0.0898,0.0898,0.41,149.995,169839,4,100,9,567
+13,40PNoHlTWzatS0dbhah6AW,Inception,Coone,"['Coone', 'Sound Rush']",0.57,0.929,11,-4.207,0,0.00967,0.0,0.223,0.373,75.019,199200,4,61,10,666
+14,3ppJijBGMSBnz45elmwh5V,Primal Energy (Defqon.1 2020 Anthem),D-Block & S-te-Fan,['D-Block & S-te-Fan'],0.297,0.935,11,-2.188,0,0.0251,1.04e-05,0.157,0.147,112.603,316800,3,209,16,981
+15,0N4QGYBSaeRwmo4pxuEG0x,No Paradise,Warface,['Warface'],0.498,0.936,11,-4.479,0,0.00507,2.84e-06,0.12,0.334,154.872,241548,4,152,11,873
+16,26aTIeF87ZP7IprFP3vqbi,Shake The Ground,Wildstylez,"['Wildstylez', 'Noubya']",0.34,0.933,9,-4.564,0,0.00445,0.000227,0.151,0.137,149.977,213200,4,103,11,816
+17,6L7BrqLNMQkVWyXEOYBuMX,Motivation,NICKYP,['NICKYP'],0.335,0.878,4,-4.239,0,0.00262,0.000169,0.209,0.278,149.912,184000,4,113,9,593
+18,2ybm6gECxGAXmmsoNUtgLc,All Or Nothing,Atmozfears,"['Atmozfears', 'Code Black', 'Toneshifterz']",0.518,0.846,11,-3.717,0,0.00904,1.18e-06,0.12,0.249,149.947,168135,4,100,9,531
+19,2jkoanGKXN9I3gfeYo4aph,Toss A Coin To Your Witcher,Coone,"['Coone', 'Da Tweekaz', 'Hard Driver', 'Bram Boender']",0.268,0.867,10,-4.439,0,0.0171,0.0,0.108,0.301,149.953,252800,4,145,13,861
+20,3QeEf7TMugwZkmn0hPmXio,Harder State Of Mind,D-Block & S-te-Fan,"['D-Block & S-te-Fan', 'DJ Isaac']",0.515,0.94,9,-2.452,0,0.0044,1.06e-05,0.23,0.284,150.051,236800,4,145,9,841
+21,7aKme0bvekUFoMI0cHGIRk,Fine Day,Coone,"['Coone', 'Brennan Heart']",0.502,0.956,1,-4.445,0,0.0772,0.00194,0.0455,0.266,150.018,236800,4,144,8,874
+22,1yzRHp7bEhYHhpEU8ji8Y9,Gung,TNT,"['TNT', 'Technoboy', 'Tuneboy']",0.558,0.985,1,-3.191,1,0.00469,5.29e-05,0.297,0.612,149.992,212429,4,128,10,887
+23,3QFVJxsqDK6ThOX5CLSBOM,Power Of Perception (Reverze Anthem 2020),Coone,"['Coone', 'Da Tweekaz', 'Hard Driver']",0.414,0.91,1,-5.117,0,0.00758,0.000791,0.078,0.138,149.743,281453,4,173,13,989
+24,6eyuU00bw19YhHGhvbLKcr,Hurricane,Ran-D,['Ran-D'],0.577,0.978,8,-1.561,0,0.0321,0.0,0.34,0.365,155.234,295647,4,190,11,1117
+25,2MxsTNQvvAJuuHK1V6nMQV,World Out There,D-Sturb,['D-Sturb'],0.47,0.974,6,-2.916,0,0.000764,8.19e-06,0.4,0.321,154.989,202495,4,128,10,728
+26,5zpE5HInlIIxJpnjEZ3FwU,Making Memories,JDX,['JDX'],0.449,0.754,1,-11.513,0,0.000649,3.24e-05,0.794,0.232,149.861,226000,4,137,11,755
+27,793EkBVuRQKkRHnuXKANtd,Loud - Radio Edit,Frontliner,"['Frontliner', 'John Harris']",0.514,0.785,1,-4.238,0,0.0084,1.23e-06,0.343,0.201,149.984,201692,4,122,6,738
+28,2rPj7LoFWCYE0i3bqF73eS,Superman,Coone,"['Coone', 'Jelle van Dael']",0.524,0.885,4,-3.686,0,0.0782,2.53e-05,0.126,0.186,149.896,222400,4,137,11,683
+29,3pVVFQ4D1yRBpztapn2hHG,Lose My Mind - Radio Edit,Wildstylez,"['Wildstylez', 'Brennan Heart']",0.522,0.819,0,-4.493,1,0.00243,0.00343,0.307,0.374,75.02,183267,4,56,8,651
+30,0YVx5YZIgfYHzlq19hqDeE,Angels & Demons,Ghost Stories,"['Ghost Stories', 'D-Block & S-te-Fan']",0.485,0.772,4,-2.966,0,0.0951,2e-06,0.105,0.203,150.111,179200,4,107,11,553
+31,0XEvd0g6DDFWM0eGJvfCZM,So Good,Da Tweekaz,"['Da Tweekaz', 'Refuzion']",0.532,0.963,10,-4.439,0,0.00526,9.39e-05,0.208,0.512,154.985,177754,4,112,9,626
+32,2TgDK4TC5KsywTYafAE4Gd,Imaginary,Brennan Heart,"['Brennan Heart', 'Jonathan Mendelsohn']",0.552,0.594,2,-6.449,1,0.298,6.17e-05,0.262,0.287,149.907,192500,4,114,8,702
+33,1umoIL3ShVbbYdvtGZm8lY,Luminosity,Project One,['Project One'],0.507,0.72,9,-5.913,0,0.425,0.113,0.104,0.208,150.12,195600,4,122,9,662
+34,6ir9zD1NGFdMhFvIrMoiMZ,You,Jacob Tillberg,['Jacob Tillberg'],0.587,0.788,1,-4.581,1,0.0147,7.84e-05,0.179,0.171,150.118,192004,4,112,11,648
+35,5PSR3ul57ZNTQi4Al6xtUz,Release - Radio Edit,Atmozfears,"['Atmozfears', 'David Spekter']",0.483,0.683,2,-6.903,0,0.0105,0.000149,0.106,0.12,149.841,238421,4,145,13,753
+36,3DoOHv1HM9Arrw5PofaF2S,For You,Sound Rush,['Sound Rush'],0.351,0.962,6,-2.877,0,0.0014,3.76e-05,0.329,0.186,75.398,236812,4,74,7,837
+37,2TC7je10DQftOBez1PRDRC,World Is Mine,Audiotricz,"['Audiotricz', 'Villain']",0.554,0.869,7,-4.769,0,0.00925,0.000492,0.356,0.0988,150.146,164000,4,99,7,494
+38,3b6ieVXywj9HJjcu16mr2J,Won't Hold Me Down (Gravity),Brennan Heart,"['Brennan Heart', 'Trevor Guthrie']",0.578,0.625,3,-3.885,0,0.122,0.0,0.0962,0.124,150.049,214400,4,130,9,688
+39,0mWGz6hPTPuOK3SaETnqCo,Imagine,Bass Modulators,['Bass Modulators'],0.302,0.865,0,-3.216,1,0.0199,7.25e-06,0.328,0.152,150.082,244133,4,137,10,693
+40,40SogcJlZY6xAocozYpDWj,Here I Come,Coone,"['Coone', 'Wildstylez']",0.567,0.882,9,-4.146,0,0.0112,2.88e-06,0.298,0.662,149.957,199200,4,120,11,703
+41,3uJnYKR844kT7MLpm0cquz,Us Against The World (Da Tweekaz Remix),Darren Styles,['Darren Styles'],0.478,0.878,1,-3.431,0,0.0431,1.93e-05,0.0719,0.289,149.671,222400,4,136,10,777
+42,7tniXeRpDkUhJ5WlBkcs6l,Promised Land,D-Block & S-te-Fan,['D-Block & S-te-Fan'],0.495,0.944,0,-1.727,0,0.0212,1.4e-06,0.273,0.381,149.924,227200,4,140,9,727
+43,7rKS9FoVpE1mLrbxCnlokX,Hurricane,Ran-D,['Ran-D'],0.575,0.979,8,-1.561,0,0.0321,0.0,0.34,0.366,155.032,295647,4,189,11,1117
+44,31zOoImZZMK5rlmiO4NiYL,Embracing The Madness,D-Sturb,"['D-Sturb', 'Sound Rush']",0.544,0.953,4,-0.938,0,0.0159,0.0,0.215,0.211,155.036,196897,4,126,10,709
+45,5DWoPJxISs9VMRCJBzujB6,Darkest Hour (The Clock),D-Block & S-te-Fan,"['D-Block & S-te-Fan', 'Sub Zero Project']",0.535,0.877,3,-2.181,0,0.033,0.000167,0.144,0.115,150.022,241600,4,148,15,769
+46,21eGoV8gNSgKWuYE6HCqXO,We Go Up - Da Tweekaz Remix,LNY TNZ,"['LNY TNZ', 'Da Tweekaz']",0.511,0.916,10,-4.559,0,0.0186,0.0,0.177,0.451,150.033,218557,4,136,10,774
+47,5okvHWU4eDKQzeihQFuYaP,Accelerate (Official XXlerator Anthem 2014),Code Black,"['Code Black', 'Atmozfears']",0.567,0.978,2,-1.767,1,0.0042,2.97e-06,0.117,0.407,150.024,275200,4,168,12,928
+48,6jzqY97VGs6UqEhAVOuGRz,Our Church,Headhunterz,"['Headhunterz', 'Sub Zero Project']",0.477,0.957,6,-3.468,0,0.00877,0.0496,0.304,0.117,150.001,268800,4,165,10,870
+49,7zVtu5K61OivymXHENlZqb,See Me Now (Da Tweekaz Remix) - Radio Version,Mark With a K,['Mark With a K'],0.512,0.892,3,-3.489,1,0.00326,0.0,0.195,0.445,149.982,223051,4,138,9,744
+50,3ZofBN4FoNuRlBqRN2q9Mg,Halos - Edit,Frontliner,"['Frontliner', 'John Harris']",0.544,0.873,1,-6.811,0,0.141,0.146,0.09,0.658,150.02,203037,4,123,10,807
+51,4OoCOOeNECyO01S8L89Flv,I'm With You,Da Tweekaz,"['Da Tweekaz', 'Gammer']",0.545,0.865,0,-4.894,0,0.00448,0.0,0.0657,0.237,155.048,208617,4,129,9,763
+52,6YUB4Wv4yJluyWsq3s9gjb,Ghost Stories,D-Block & S-te-Fan,"['D-Block & S-te-Fan', 'Ghost Stories']",0.44,0.898,9,-2.911,0,0.157,0.0,0.0784,0.124,150.119,230400,4,142,12,604
+53,5DOL2R736GPvEL6yE05n4R,Great Spirit - Wildstylez Remix,Armin van Buuren,"['Armin van Buuren', 'Vini Vici', 'Hilight Tribe', 'Wildstylez']",0.276,0.942,11,-5.882,0,0.00351,0.0511,0.454,0.0509,149.982,236000,4,125,10,1015
+54,0yTzy8hWBrN0rLlM7oUF7L,Snatch,Bassjackers,['Bassjackers'],0.697,0.966,8,-3.396,1,0.000652,0.0672,0.106,0.353,130.016,181846,4,97,7,694
+55,3KQVhTF2eqfU1jR1b74Xcw,Live The Moment,JDX,"['JDX', 'Sarah Maria']",0.312,0.813,3,-6.481,1,0.0609,0.0124,0.4,0.202,150.095,212804,4,130,8,723
+56,2OhvhEa8B0GI88Zedl7xGl,Music Made Addict,D-Block & S-te-Fan,['D-Block & S-te-Fan'],0.602,0.875,10,-5.856,0,0.00228,0.906,0.395,0.218,148.033,280895,4,172,13,1264
+57,0aQKFxHXdaWLJK4gFVGIdp,Tonight - Alpha2 RMX,Headhunterz,"['Headhunterz', 'Wildstylez', 'Noisecontrollers']",0.468,0.942,6,-2.646,0,0.0723,0.00175,0.086,0.294,150.047,358400,4,217,18,1402
+58,5ZHdiROs72t0QpMHggDSNW,Lose My Mind,Brennan Heart,"['Brennan Heart', 'Wildstylez']",0.53,0.866,0,-4.001,1,0.00909,0.00142,0.352,0.377,150.043,182079,4,112,10,622
+59,10ZpPhFc9rMNdlyW3WsL0s,Scrap Attack (Defqon.1 Anthem 2009),Headhunterz,['Headhunterz'],0.489,0.875,7,-5.416,1,0.00306,0.0502,0.0647,0.188,149.984,437451,4,260,15,1674
+60,5FOKOPyNOyxJRClqv6XBOl,Imaginary,Brennan Heart,"['Brennan Heart', 'Jonathan Mendelsohn']",0.552,0.594,2,-6.449,1,0.298,6.17e-05,0.262,0.287,149.907,192500,4,114,8,702
+61,4dihx3emTRixgkskB8n8lH,Rock Civilization,Headhunterz,['Headhunterz'],0.703,0.994,9,-6.376,0,0.0355,0.727,0.864,0.0733,150.0,354092,4,218,10,1574
+62,1TwbzKMxFBExaDEUWqQ832,Zombie,Ran-D,['Ran-D'],0.436,0.869,4,-2.473,0,0.0542,0.0,0.0979,0.0383,155.051,289549,4,185,14,820
+63,64actPn8eUBEg5BvH8voL1,SCK - Radio Edit,Satchmo,['Satchmo'],0.509,0.851,8,-8.562,0,0.0499,0.774,0.286,0.505,149.981,258004,4,157,13,990
+64,00YDGBvUs8njlhyfE0cOa1,Magic,B-Front,"['B-Front', 'Frontliner']",0.557,0.925,8,-4.425,1,0.0131,0.657,0.366,0.0571,149.966,334555,4,206,12,1176
+65,3TL2sy3NSO3gPNIfL5Bc3E,INITIALIZE,Synthsoldier,['Synthsoldier'],0.578,0.752,5,-4.56,0,0.0105,0.607,0.245,0.376,154.995,214839,4,137,11,944
+66,52IZuB1orjT6VQoWEby7gU,Next Generation (Hard Mix),Will Sparks,"['Will Sparks', 'Firelite']",0.555,0.763,11,-5.617,1,0.0123,1.55e-06,0.0986,0.21,154.95,192000,4,125,10,706
+67,10WobHNbDyqUBpSc2tfw8m,Lost In Paradise - Edit,Max Enforcer,['Max Enforcer'],0.478,0.957,0,-2.994,0,0.0148,0.000351,0.309,0.278,149.992,192000,4,117,8,635
+68,1NAnCUpr7jGzepBPDvGu3D,Natural,Davide Sonar,['Davide Sonar'],0.715,0.618,9,-8.309,1,0.00101,0.856,0.0893,0.044,149.96,470138,4,293,18,1849
+69,74tFLjFWzdydNgufg1XpNw,No Guts No Glory (Defqon.1 Anthem 2015),Ran-D,"['Ran-D', 'Skits Vicious']",0.404,0.957,5,-3.275,0,0.0103,0.00954,0.293,0.15,150.428,358536,4,224,15,1244
+70,6dxJs7E10HvvRypGRgcOSU,Stronger & Better,Radical Redemption,['Radical Redemption'],0.353,0.915,8,-2.691,1,0.225,7.61e-05,0.116,0.371,154.859,182903,4,115,8,699
+71,7BDzpOG4JFka6ab0O1jn8k,See The Light,Noisecontrollers,"['Noisecontrollers', 'Bass Modulators']",0.44,0.88,0,-5.748,1,0.00445,3.34e-05,0.0638,0.287,149.744,206516,4,127,12,758
+72,4DYgSG7OSTyFuuSQvsXomn,One - Album Edit,Wildstylez,"['Wildstylez', 'E-Life', 'Noah Jacobs']",0.535,0.812,0,-3.825,0,0.0343,1.25e-06,0.205,0.499,145.109,205345,4,121,9,665
+73,56ghsgSC9Y0MJ1yKnLFixe,Arriba,Psyko Punkz,"['Psyko Punkz', 'Coone', 'KELTEK']",0.521,0.832,1,-5.321,1,0.0262,0.000499,0.121,0.337,152.772,191373,4,119,10,727
+74,5GebyDL0Z2uZYcjtGHk8Kt,Trailblazer,Radical Redemption,"['Radical Redemption', 'Nolz']",0.484,0.958,6,-2.964,1,0.187,0.000135,0.404,0.253,155.043,202839,4,129,10,783
+75,1t43yOydn1O4uOusALEUFl,FYAH,TNT,"['TNT', 'Technoboy', 'Tuneboy']",0.594,0.958,0,-3.33,1,0.00201,0.474,0.0848,0.346,150.019,195066,4,117,8,738
+76,3M3yExPY9RTBCJsNSSx88A,my story,Atmozfears,['Atmozfears'],0.272,0.917,9,-2.73,0,0.341,2.88e-06,0.279,0.171,150.023,214400,4,123,9,635
+77,7qK0mNHVdVbnqt3Prd26Vs,Surrender - Hixxy Remix,Darude,"['Darude', 'Ashley Wallbridge', 'Foux', 'Hixxy']",0.467,0.965,7,-1.564,1,0.0155,0.00155,0.116,0.174,164.961,204906,4,139,11,773
+78,6V8BR1ijwaUyGkV1rXqijl,Devil's Symphony,Scooter,['Scooter'],0.245,0.943,9,-3.633,0,0.005,7.35e-05,0.461,0.305,152.99,185000,4,114,11,636
+79,7mD85iEVS1TQa8zBLQZSIM,The Silence (Of My Sins),Sub Zero Project,['Sub Zero Project'],0.496,0.949,6,-4.187,0,0.000807,9.97e-06,0.153,0.344,155.031,242782,4,153,10,912
+80,3q6W183ybnMCPRLMv6WD5p,Above Heaven,B-Front,"['B-Front', 'Adrenalize']",0.323,0.69,8,-4.746,1,0.406,0.0178,0.0753,0.0752,75.054,259600,4,78,11,807
+81,3ahSusuNNyMrnPK7CYwMn6,Kwiat polskiej młodzieży,Bedoes,"['Bedoes', 'Kubi Producent']",0.716,0.658,1,-8.701,1,0.321,0.0,0.214,0.498,142.908,272217,4,161,14,1374
+82,3cvRpuLZT1c7pzuEVwDrUI,Janosik,Bedoes,"['Bedoes', 'Kubi Producent', 'GOLEC UORKIESTRA']",0.723,0.515,8,-9.549,0,0.56,2.72e-06,0.363,0.327,87.95,231547,4,83,9,925
+83,4glBRF3uJCf3bTG4hhIhpn,Chłopaki nie płaczą,Bedoes,"['Bedoes', 'Kubi Producent', 'Taco Hemingway']",0.68,0.519,9,-11.125,0,0.285,1.42e-06,0.0973,0.238,95.004,211800,4,83,7,893
+84,4oiXEXaXR2IPf3GVms9MLK,05:05,Bedoes,"['Bedoes', 'Kubi Producent']",0.589,0.525,5,-9.987,1,0.299,0.0,0.0886,0.723,140.123,211880,4,122,9,873
+85,6QnHmLsASo72esf6oEw0Rv,Gady,Bedoes,"['Bedoes', 'Kubi Producent', 'Białas', 'Eldo']",0.659,0.7,7,-8.286,1,0.374,0.0,0.112,0.4,145.922,257293,4,153,13,1159
+86,21uxHqtKcLIDUeCm7Qt5GS,Rivendell,Bedoes,"['Bedoes', 'Kubi Producent']",0.704,0.643,5,-9.368,0,0.181,2.09e-05,0.191,0.654,154.948,191549,4,123,11,836
+87,2bkofpwwhYbX17qbEhplnr,Givenchy,Bedoes,"['Bedoes', 'Kubi Producent', 'Solar']",0.735,0.612,6,-9.371,1,0.439,0.00289,0.0953,0.757,129.908,182413,4,97,9,899
+88,3KOOT28eybdmNAPSYIa1WG,1000 koni,Bedoes,"['Bedoes', 'Kubi Producent']",0.832,0.776,11,-8.897,1,0.24,0.0,0.342,0.42,140.102,116933,4,67,4,567
+89,0AqdUvxA13c5PX4ZqjTRDT,Mercedes GLE Coupé,Bedoes,"['Bedoes', 'Kubi Producent', 'Blacha 2115', 'Kuqe 2115', 'Flexxy 2115']",0.836,0.654,1,-8.136,1,0.383,3.77e-05,0.0875,0.349,105.985,213227,4,93,10,1073
+90,1bpjCGto1wM6A8UOmX32o4,Toy Story,Bedoes,"['Bedoes', 'Kubi Producent', 'Rafonix']",0.657,0.536,10,-9.295,0,0.548,1.24e-05,0.109,0.4,165.89,161147,4,109,7,698
+91,5qLymEWEwjSMhBlnPX9JOQ,Bardzo przepraszam,Bedoes,"['Bedoes', 'Kubi Producent']",0.468,0.667,9,-8.831,1,0.416,0.0,0.152,0.3,164.15,194484,4,131,8,837
+92,0xoUDiOLXqp9qB3S9FkvUI,Delfin,Bedoes,"['Bedoes', 'Kubi Producent', 'Koldi', 'Young Multi', 'Beteo']",0.787,0.792,1,-7.187,1,0.309,0.0,0.138,0.507,160.03,336867,4,224,15,1603
+93,2j0SL63OQDQkfyTBjhG46r,Śnieg,Bedoes,"['Bedoes', 'Kubi Producent']",0.566,0.513,5,-11.362,1,0.0793,0.0,0.109,0.409,85.486,198469,4,70,7,719
+94,1lVMbrHVpQByI3cqUzMGMg,Wow,Bedoes,"['Bedoes', 'Kubi Producent']",0.806,0.748,6,-7.472,0,0.294,0.0,0.0837,0.455,149.082,172105,4,105,8,792
+95,0VQazsVE1BCb0Spn3dyj8v,Tarzan,Bedoes,"['Bedoes', 'Kubi Producent']",0.43,0.422,11,-14.061,0,0.0272,0.00143,0.0713,0.0896,101.363,653627,3,405,13,2545
+96,3e2VVyqCmnTXl0bBfgQgBJ,Come Around Me,Justin Bieber,['Justin Bieber'],0.647,0.681,2,-8.378,0,0.261,0.0072,0.0975,0.766,157.961,200773,4,129,9,957
+97,6FOOTEAugyi3q8HXjK17t7,Intentions,Justin Bieber,"['Justin Bieber', 'Quavo']",0.807,0.549,9,-6.637,1,0.305,0.0,0.102,0.87,147.986,212867,4,131,9,932
+98,66sFU2r6DPVMLdh73CSnbK,Running Over,Justin Bieber,"['Justin Bieber', 'Lil Dicky']",0.776,0.604,11,-7.32,1,0.438,4.01e-05,0.0869,0.975,149.982,179627,4,111,11,848
+99,6cMGECjzH3m1QjfCmFqQM6,Second Emotion,Justin Bieber,"['Justin Bieber', 'Travis Scott']",0.796,0.778,11,-6.112,0,0.0276,2.88e-05,0.0951,0.96,141.977,202720,4,120,12,916
+100,6OvQOYBHVsJrg8y6UCe99g,Yummy,Justin Bieber,['Justin Bieber'],0.675,0.508,9,-6.654,0,0.347,0.0,0.118,0.497,145.833,208520,4,125,10,811
+101,3ZsOYk34IQMrH4B1PBdofL,Boyfriend - Acoustic Version,Justin Bieber,['Justin Bieber'],0.752,0.292,9,-8.967,0,0.843,0.0,0.1,0.621,89.831,187680,4,70,10,660
+102,1kN9UiyOSRVCrSc49ft0lp,As Long As You Love Me - Acoustic Version,Justin Bieber,['Justin Bieber'],0.549,0.307,11,-9.171,0,0.776,0.0,0.0871,0.428,135.57,221693,4,123,13,804
+103,4nTWserD4pdou0yCPeW8Cv,Beauty And A Beat - Acoustic Version,Justin Bieber,['Justin Bieber'],0.689,0.302,10,-8.441,1,0.734,0.0,0.13,0.699,127.634,144693,4,75,10,474
+104,7ej2KATDNa2Wij1TQZJeq7,She Don't Like The Lights - Acoustic Version,Justin Bieber,['Justin Bieber'],0.612,0.428,8,-8.52,0,0.752,0.0,0.0921,0.685,123.813,215813,4,111,10,802
+105,4JUaBY6fOVvzaqSJVuhrrD,Take You - Acoustic Version,Justin Bieber,['Justin Bieber'],0.57,0.341,6,-9.842,1,0.789,0.0,0.17,0.715,125.468,179373,4,92,7,654
+106,7omCJ8LK58BHemymKeNwww,Be Alright - Acoustic Version,Justin Bieber,['Justin Bieber'],0.392,0.253,9,-10.955,1,0.916,0.0,0.208,0.444,103.837,210347,4,117,10,681
+107,4YYrWBHabLZEDMcmr6Vn00,All Around The World - Acoustic Version,Justin Bieber,['Justin Bieber'],0.654,0.345,2,-8.686,0,0.616,0.0,0.214,0.717,119.539,156173,4,75,9,574
+108,35wOifvruCwCJaYblqIflV,Fall - Live,Justin Bieber,['Justin Bieber'],0.465,0.366,8,-6.821,1,0.826,0.0,0.111,0.629,100.93,220973,4,81,10,720
+109,3L7GqCjU0FHXuzhLskcKAL,Yellow Raincoat,Justin Bieber,['Justin Bieber'],0.783,0.375,10,-9.59,0,0.708,0.124,0.0933,0.742,109.954,224107,4,101,10,862
+110,57riAzioKDOxYyGGzgUnZQ,I Would,Justin Bieber,['Justin Bieber'],0.708,0.649,9,-7.174,1,0.455,0.0,0.204,0.578,87.999,227360,4,81,8,888
+111,30Co9eN7JHPf1i2wEyVSMJ,Nothing Like Us,Justin Bieber,['Justin Bieber'],0.546,0.155,0,-14.378,1,0.987,6.02e-05,0.18,0.512,72.331,199800,4,57,8,587
+112,1Mg8vLBYwizu7AuhYQO64V,All Around The World,Justin Bieber,"['Justin Bieber', 'Ludacris']",0.689,0.816,3,-3.951,0,0.0188,2.42e-06,0.181,0.776,127.972,244547,4,128,14,1045
+113,2L7rZWg9RLxIwnysmxm4xk,Boyfriend,Justin Bieber,['Justin Bieber'],0.717,0.55,10,-6.019,0,0.0358,0.00198,0.126,0.331,96.979,171333,4,68,8,716
+114,0pwYLVXVknPSGUQb39cePC,As Long As You Love Me,Justin Bieber,"['Justin Bieber', 'Big Sean']",0.571,0.873,0,-3.382,0,0.0811,0.0,0.361,0.613,139.691,229467,4,134,12,801
+115,5uDuOnjJ0MrfJxvEHPpJap,Catching Feelings,Justin Bieber,['Justin Bieber'],0.324,0.541,3,-6.665,1,0.353,0.0,0.35,0.364,85.036,234680,4,81,12,852
+116,41bV7zvmTbAPinmY1pG4xN,Take You,Justin Bieber,['Justin Bieber'],0.663,0.705,6,-6.648,1,0.00105,0.00237,0.232,0.459,126.043,220893,4,116,10,885
+117,7vjtAU3Ns1AT4dRa0voHBJ,Right Here,Justin Bieber,"['Justin Bieber', 'Drake']",0.642,0.57,1,-4.966,1,0.0235,0.0,0.329,0.731,92.042,204187,4,77,8,793
+118,7zMMgJ8cSCg4iPuoxWtTyL,Fall,Justin Bieber,['Justin Bieber'],0.607,0.754,11,-4.321,1,0.259,0.0,0.111,0.606,82.995,248387,4,84,12,821
+119,23taOWrpWaAtU8rVN7hiNu,Die In Your Arms,Justin Bieber,['Justin Bieber'],0.568,0.877,7,-5.094,1,0.0309,4.4e-06,0.213,0.738,171.723,237293,4,167,9,941
+120,2iyW0eOEQ764Dz2sn8ImN9,Thought Of You,Justin Bieber,['Justin Bieber'],0.697,0.705,2,-5.032,1,0.0094,7.09e-06,0.105,0.57,123.217,230107,4,116,10,815
+121,190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Justin Bieber,"['Justin Bieber', 'Nicki Minaj']",0.602,0.843,0,-4.831,1,0.000688,5.27e-05,0.0682,0.526,128.003,227987,4,122,13,769
+122,2neyhqdDpRH7LV08C39TFJ,One Love,Justin Bieber,['Justin Bieber'],0.689,0.611,11,-7.56,1,0.00267,0.0,0.0942,0.228,127.914,234493,4,124,9,911
+123,0nxvFG50rGXkiGQqOO2MHr,Be Alright,Justin Bieber,['Justin Bieber'],0.803,0.356,5,-9.026,0,0.589,0.0,0.16,0.739,106.95,189653,4,83,9,622
+124,1AruWZmSy4RerslWBkH8OY,Believe,Justin Bieber,['Justin Bieber'],0.518,0.854,0,-5.71,1,0.141,0.0,0.171,0.507,159.807,222560,4,144,11,772
+125,0b1L4GuHRY7jLzcMdek3fP,Out Of Town Girl,Justin Bieber,['Justin Bieber'],0.594,0.879,9,-5.586,0,0.126,6.32e-06,0.151,0.799,80.994,213560,4,70,7,865
+126,2Z3y6552thvY2jKNHHMtXj,She Don't Like The Lights,Justin Bieber,['Justin Bieber'],0.573,0.896,4,-4.6,0,0.00574,0.00213,0.317,0.452,123.944,239867,4,122,8,961
+127,7E1dQbOk1qcx9gEPUMBKsk,Maria,Justin Bieber,['Justin Bieber'],0.825,0.687,6,-6.794,0,0.00997,1.32e-05,0.19,0.294,111.002,248293,4,112,9,1037
+128,55DEnUKIReTBcrjAmAa9Tw,Fairytale,Justin Bieber,"['Justin Bieber', 'Jaden']",0.547,0.805,10,-9.294,0,0.0271,0.601,0.11,0.814,171.952,193187,4,136,8,885
+129,4y4spB9m0Q6026KfkAvy9Q,Lonely (with benny blanco),Justin Bieber,"['Justin Bieber', 'benny blanco']",0.631,0.239,11,-7.071,0,0.864,0.0,0.116,0.0927,79.859,149297,4,49,7,371
+130,5u1n1kITHCxxp8twBcZxWy,Holy (feat. Chance The Rapper),Justin Bieber,"['Justin Bieber', 'Chance the Rapper']",0.673,0.704,6,-8.056,1,0.196,0.0,0.0898,0.372,86.919,212093,4,75,11,852
+131,6iKm3XrLf3PNIcNQUhpAbn,Hold Tight - Single Version,Justin Bieber,['Justin Bieber'],0.565,0.612,10,-5.795,0,0.28,0.0,0.105,0.487,117.696,254213,4,124,10,945
+132,7zBOf7sLdKueQEfw0UgCSF,One Love,Justin Bieber,['Justin Bieber'],0.689,0.611,11,-7.56,1,0.00267,0.0,0.0942,0.228,127.914,234493,4,124,9,911
+133,3JhCd6H5QdsWCIkOqTr03R,Love Yourself,Justin Bieber,['Justin Bieber'],0.759,0.401,4,-8.999,1,0.86,0.0,0.299,0.576,100.126,232627,4,95,11,770
+134,1t8QxevQSbEEp3dJ6U5Xtk,Yellow Raincoat,Justin Bieber,['Justin Bieber'],0.783,0.375,10,-9.59,0,0.708,0.124,0.0933,0.742,109.954,224107,4,101,10,862
+135,0sZxmrM5WvkoB6HaXfArc1,Confident - Single Version,Justin Bieber,"['Justin Bieber', 'Chance the Rapper']",0.717,0.57,5,-5.459,0,0.114,0.0,0.2,0.894,134.018,248760,4,136,12,962
+136,1Y8g8zMEK5lwGIXGg1DOZc,Come Around Me,Justin Bieber,['Justin Bieber'],0.647,0.681,2,-8.378,0,0.261,0.0072,0.0975,0.766,157.961,200773,4,129,9,957
+137,1wFRIylMFDLvENzNNg4B1O,Confirmation,Justin Bieber,['Justin Bieber'],0.412,0.317,8,-8.195,1,0.621,0.0,0.152,0.442,190.268,170587,3,180,7,528
+138,5Ghv5BHrZHKOUkjinFlSd4,Changes,Justin Bieber,['Justin Bieber'],0.519,0.412,2,-7.766,0,0.735,0.0,0.12,0.619,63.931,135493,3,46,5,459
+139,4KqV5XrQ3bTqPtZrH38kQy,That's What Love Is,Justin Bieber,['Justin Bieber'],0.643,0.436,9,-6.956,1,0.688,0.0,0.12,0.754,147.715,165120,4,101,8,564
+140,45ON4eYvgOZlyOt4cYKjmI,All Around Me,Justin Bieber,['Justin Bieber'],0.501,0.435,3,-7.563,1,0.814,0.0,0.212,0.686,117.007,136907,4,66,8,456
+141,7h32HFeMu1PAjg9miUta6c,Changes,Justin Bieber,['Justin Bieber'],0.519,0.412,2,-7.766,0,0.735,0.0,0.12,0.619,63.931,135493,3,46,5,459
+142,5uNjKMXxJkRfXp1jCO3DD5,Confirmation,Justin Bieber,['Justin Bieber'],0.412,0.317,8,-8.195,1,0.621,0.0,0.152,0.442,190.268,170587,3,180,7,528
+143,3JeTe0VAQfCPwERsR1Xj51,Habitual,Justin Bieber,['Justin Bieber'],0.764,0.442,4,-6.625,1,0.507,1.92e-05,0.0751,0.629,139.018,168200,4,95,9,653
+144,3kYJNRjyoiPPoxsAbvXfZx,All Around Me,Justin Bieber,['Justin Bieber'],0.501,0.435,3,-7.563,1,0.814,0.0,0.212,0.686,117.007,136907,4,66,8,456
+145,7Mo2grPV40f3uGHLvcOI5o,E.T.A.,Justin Bieber,['Justin Bieber'],0.485,0.494,4,-7.593,0,0.49,0.0,0.126,0.459,129.497,176733,4,91,7,521
+146,22IQFBWTk1O6uF6JV2oEeP,Changes,Justin Bieber,['Justin Bieber'],0.519,0.412,2,-7.766,0,0.735,0.0,0.12,0.619,63.931,135493,3,46,5,459
+147,2TNhWOFO2BRltGCoIgGQZC,Available,Justin Bieber,['Justin Bieber'],0.701,0.608,3,-6.844,1,0.0761,0.0,0.129,0.594,75.01,195333,4,59,12,776
+148,1VGzrviBoqPz3WsN9KB9lz,At Least For Now,Justin Bieber,['Justin Bieber'],0.241,0.305,9,-9.898,1,0.688,0.0,0.196,0.284,54.863,149653,4,53,7,466
+149,4Cb7eYqroB6XEkF0a1Rxw5,Running Over,Justin Bieber,"['Justin Bieber', 'Lil Dicky']",0.776,0.604,11,-7.32,1,0.438,4.01e-05,0.0869,0.975,149.982,179627,4,111,11,848
+150,2bSWxH80QGTl762kSMEKWB,Intentions - Acoustic,Justin Bieber,['Justin Bieber'],0.711,0.411,9,-6.657,1,0.594,0.0,0.0903,0.791,73.997,160612,4,46,7,577
+151,0mbQJ2svktRQqCj9nUatUI,Habitual,Justin Bieber,['Justin Bieber'],0.764,0.442,4,-6.625,1,0.507,1.92e-05,0.0751,0.629,139.018,168200,4,95,9,653
+152,5zswGvnODIurh2dUHcVrBa,Take It Out On Me,Justin Bieber,['Justin Bieber'],0.772,0.616,7,-4.671,1,0.00339,2.21e-06,0.103,0.287,129.959,178013,4,96,10,646
+153,0Rr82eFONenOYPCOvthcKh,Changes,Justin Bieber,['Justin Bieber'],0.519,0.412,2,-7.766,0,0.735,0.0,0.12,0.619,63.931,135493,3,46,5,459
+154,4j7iNxZMrEgb3HVDH8cQWW,Get Me,Justin Bieber,"['Justin Bieber', 'Kehlani']",0.838,0.51,6,-6.934,0,0.0499,5.54e-05,0.105,0.76,109.298,185427,5,81,7,830
+155,6O9Zqai2OpGkosgMVzoBFc,Available,Justin Bieber,['Justin Bieber'],0.701,0.608,3,-6.844,1,0.0761,0.0,0.129,0.594,75.01,195333,4,59,12,776
+156,2SnNaoNhMjC1WRMTWD8qTX,Mark My Words,Justin Bieber,['Justin Bieber'],0.383,0.256,0,-8.572,1,0.88,2.69e-06,0.169,0.519,114.188,134347,4,62,7,385
+157,0SNIAtRCPVVLoGEPcuHSIc,I'll Show You,Justin Bieber,['Justin Bieber'],0.361,0.608,9,-6.757,0,0.05,7.96e-05,0.183,0.0789,191.812,199947,4,157,10,715
+158,4B0JvthVoAAuygILe3n4Bs,What Do You Mean?,Justin Bieber,['Justin Bieber'],0.845,0.567,5,-8.118,0,0.59,0.00142,0.0811,0.793,125.02,205680,4,104,8,877
+159,09CtPGIpYB4BrO8qb1RGsF,Sorry,Justin Bieber,['Justin Bieber'],0.654,0.76,0,-3.669,0,0.0797,0.0,0.299,0.41,99.945,200787,4,81,9,901
+160,50kpGaPAhYJ3sGmk6vplg0,Love Yourself,Justin Bieber,['Justin Bieber'],0.609,0.378,4,-9.828,1,0.835,0.0,0.28,0.515,100.418,233720,4,99,11,777
+161,61uyGDPJ06MkxJtHgPmuyO,Company,Justin Bieber,['Justin Bieber'],0.59,0.797,4,-4.901,0,0.132,0.0,0.0846,0.425,94.948,208120,4,81,11,895
+162,23UV8pJEvRnAZd6ZAXBC0H,No Pressure,Justin Bieber,"['Justin Bieber', 'Big Sean']",0.644,0.595,1,-6.877,1,0.121,0.0,0.279,0.554,148.889,286853,3,234,15,1062
+163,5L9WFUodzACitS1TiGm7Mi,No Sense,Justin Bieber,"['Justin Bieber', 'Travis Scott']",0.643,0.499,2,-6.795,0,0.0478,0.0,0.108,0.363,133.978,275040,4,150,15,931
+164,7E390nZTMqEbrNC1TmHd42,The Feeling,Justin Bieber,"['Justin Bieber', 'Halsey']",0.525,0.809,1,-6.185,0,0.0819,1.22e-06,0.0971,0.21,127.073,244907,4,129,9,960
+165,4yWCzA44dQyp0SoeM81bUb,Life Is Worth Living,Justin Bieber,['Justin Bieber'],0.558,0.296,10,-9.18,1,0.907,0.0,0.108,0.463,76.04,234787,4,72,7,691
+166,0n8ob8S72lvznoVfiwz4qL,Where Are Ü Now,Skrillex,"['Skrillex', 'Diplo', 'Justin Bieber']",0.432,0.74,7,-5.053,1,0.0342,6.59e-06,0.14,0.193,139.42,242520,4,138,11,1050
+167,7sK3nu6yk8urQ44ouEB7Au,Children,Justin Bieber,['Justin Bieber'],0.634,0.885,11,-4.702,0,0.0122,0.0,0.193,0.327,127.064,223333,4,116,9,947
+168,2IjyFRCRn8x1bEquOM3vxg,Purpose,Justin Bieber,['Justin Bieber'],0.481,0.285,0,-10.848,1,0.9,0.0,0.123,0.316,130.029,210160,4,121,12,560
+169,6gcA4zzG6FnMEgPSDKbAMs,Been You,Justin Bieber,['Justin Bieber'],0.74,0.781,7,-6.204,0,0.0223,0.0,0.321,0.861,113.021,199227,4,92,10,894
+170,4AMnUGvZUVJgDuY7rOPzUZ,Get Used To It,Justin Bieber,['Justin Bieber'],0.687,0.705,9,-8.453,0,0.0339,0.0,0.164,0.449,110.048,238133,4,109,13,964
+171,1m6FkAtWVloxIRHKl7pBDP,We Are,Justin Bieber,"['Justin Bieber', 'Nas']",0.586,0.774,10,-3.883,0,0.255,0.0,0.137,0.651,78.712,202960,4,67,6,817
+172,00IH8ZjI9ZGB51WRX1Oesj,Trust,Justin Bieber,['Justin Bieber'],0.512,0.494,7,-8.16,0,0.0948,0.0,0.124,0.492,76.002,203613,3,83,10,775
+173,4kP50JQmyFrl9pLSmnFPZr,All In It,Justin Bieber,['Justin Bieber'],0.459,0.701,5,-7.496,0,0.502,3.62e-05,0.238,0.509,97.648,231413,4,91,8,903
+174,5YNf9s8WE3iF33YaFNrgpa,What Do You Mean? - Acoustic,Justin Bieber,['Justin Bieber'],0.773,0.358,8,-10.634,1,0.794,0.0,0.104,0.756,124.934,203800,4,104,11,660
+175,5Py8zRKGkZvgHniVVtvNCN,All Around Me,Justin Bieber,['Justin Bieber'],0.566,0.438,0,-7.564,0,0.809,0.0,0.212,0.692,117.127,136907,4,65,8,456
+176,40qyPyljksBEqlNw5sW37T,Habitual,Justin Bieber,['Justin Bieber'],0.764,0.443,4,-6.625,1,0.52,1.96e-05,0.0749,0.63,138.999,168200,4,95,8,653
+177,2o9LAypwGH4ctV0i9boo6d,Come Around Me,Justin Bieber,['Justin Bieber'],0.648,0.681,2,-8.389,0,0.263,0.00783,0.0971,0.767,157.941,200773,4,129,9,958
+178,4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),Justin Bieber,"['Justin Bieber', 'Quavo']",0.806,0.546,9,-6.637,1,0.3,0.0,0.102,0.874,147.986,212867,4,132,9,932
+179,16wAOAZ2OkqoIDN7TpChjR,Yummy,Justin Bieber,['Justin Bieber'],0.676,0.506,9,-6.652,0,0.345,0.0,0.118,0.497,145.842,208520,4,125,10,812
+180,1b6tPXXCV2fSNtR3SKWUQA,Available,Justin Bieber,['Justin Bieber'],0.702,0.608,3,-6.843,1,0.0736,0.0,0.129,0.597,75.012,195333,4,59,12,775
+181,2ZlCGeK30BLRNSPC832pNZ,Forever (feat. Post Malone & Clever),Justin Bieber,"['Justin Bieber', 'Post Malone', 'Clever']",0.825,0.483,8,-5.746,0,0.538,1.48e-05,0.204,0.892,139.98,219933,4,126,8,944
+182,75nKBP8jQu681pTNCtrEnn,Running Over (feat. Lil Dicky),Justin Bieber,"['Justin Bieber', 'Lil Dicky']",0.774,0.603,11,-7.319,1,0.438,4.37e-05,0.0869,0.977,149.982,179627,4,111,11,849
+183,39nTNk5MfyiiRupTwn1iyC,Take It Out On Me,Justin Bieber,['Justin Bieber'],0.772,0.616,7,-4.673,1,0.00337,2.36e-06,0.104,0.279,129.967,178013,4,96,10,645
+184,1PnAx788sAvcI3ZxTlEyX8,Second Emotion (feat. Travis Scott),Justin Bieber,"['Justin Bieber', 'Travis Scott']",0.796,0.777,11,-6.112,0,0.0276,2.87e-05,0.095,0.96,141.97,202720,4,120,12,916
+185,5VwwpU7KsLhgfbMEecedhJ,Get Me (feat. Kehlani),Justin Bieber,"['Justin Bieber', 'Kehlani']",0.832,0.508,6,-6.913,0,0.0492,5.39e-05,0.107,0.75,109.352,185427,5,82,8,829
+186,6PzOPrXx8tJEqace76yrv2,E.T.A.,Justin Bieber,['Justin Bieber'],0.465,0.494,4,-7.595,0,0.49,0.0,0.127,0.457,127.298,176733,4,89,7,521
+187,521Os1SMlxmsoevsqyjNmJ,Changes,Justin Bieber,['Justin Bieber'],0.485,0.412,9,-7.766,0,0.738,0.0,0.12,0.612,64.062,135493,3,46,5,459
+188,60brXKLTC15vK0av5gIldm,Confirmation,Justin Bieber,['Justin Bieber'],0.438,0.315,8,-8.186,1,0.608,0.0,0.151,0.449,190.064,170587,3,180,8,528
+189,2hLu8L8SNfCN4yKyPdX0h3,That's What Love Is,Justin Bieber,['Justin Bieber'],0.639,0.437,9,-6.959,1,0.692,0.0,0.12,0.751,147.575,165120,4,101,7,563
+190,6VLkgf5YmLixsabdqiCVGU,At Least For Now,Justin Bieber,['Justin Bieber'],0.375,0.304,9,-9.897,1,0.683,0.0,0.196,0.295,83.832,149653,3,68,6,466
+191,2FBpJGt00G0h1q0RHuqaGO,Yummy - Summer Walker Remix,Justin Bieber,"['Justin Bieber', 'Summer Walker']",0.655,0.578,9,-5.711,0,0.311,0.0,0.109,0.546,145.869,209213,4,126,9,818
+192,6eDApnV9Jdb1nYahOlbbUh,One Time,Justin Bieber,['Justin Bieber'],0.691,0.853,1,-2.528,0,0.0631,7.13e-05,0.082,0.762,145.999,215867,4,127,13,847
+193,4nTjkWK590oBDcnIxTr1mI,Favorite Girl,Justin Bieber,['Justin Bieber'],0.581,0.681,7,-4.469,1,0.0472,0.0,0.104,0.634,176.034,256800,4,186,12,927
+194,1q9pBaYcydq7LyYwD8SEBs,Down To Earth,Justin Bieber,['Justin Bieber'],0.543,0.718,2,-4.795,1,0.432,0.0,0.437,0.155,82.003,245760,4,81,13,738
+195,0ffOWJVrYmtKcmQJbPWuhc,Bigger,Justin Bieber,['Justin Bieber'],0.78,0.733,0,-2.851,0,0.166,0.0,0.341,0.895,104.086,197800,4,83,11,787
+196,69ghzc538EQSVon2Gm3wrr,One Less Lonely Girl,Justin Bieber,['Justin Bieber'],0.58,0.75,4,-4.421,1,0.159,0.0,0.274,0.728,86.938,229107,4,82,10,919
+197,4bPeekGfzuqkmlpKiJur5o,First Dance,Justin Bieber,"['Justin Bieber', 'Usher']",0.646,0.52,11,-7.289,1,0.0137,0.0,0.275,0.328,68.517,222333,4,61,8,834
+198,0yIywEquxORnu1dR0WYsdN,Love Me,Justin Bieber,['Justin Bieber'],0.729,0.868,3,-3.319,1,0.00939,0.0,0.283,0.632,124.957,191573,4,96,7,696
+199,2GCKWEsbb0Xo1oodTOKVi1,Heartbreaker,Justin Bieber,['Justin Bieber'],0.568,0.517,6,-7.316,0,0.146,0.0,0.343,0.578,104.443,262840,4,113,9,942
+200,6CLVh9sekZ1p2G8Tfhhj8h,All That Matters,Justin Bieber,['Justin Bieber'],0.698,0.509,1,-5.798,1,0.00535,0.0,0.0703,0.143,129.865,191173,4,99,9,613
+201,71g1UlX2OtS9axwBIBa5Zm,Hold Tight,Justin Bieber,['Justin Bieber'],0.565,0.612,10,-5.795,0,0.28,0.0,0.105,0.487,117.697,254213,4,124,10,945
+202,6pFqCPdvm6C9IHbJrEu8aG,Recovery,Justin Bieber,['Justin Bieber'],0.669,0.527,6,-5.048,0,0.014,0.0,0.338,0.238,130.271,182373,4,98,10,665
+203,4VAngYbLewVFpcLR9FpYfR,Bad Day,Justin Bieber,['Justin Bieber'],0.676,0.509,11,-6.838,0,0.0221,0.0,0.221,0.313,81.981,145680,4,49,6,538
+204,3JNEXPTnSxqlxNqhTW61D2,All Bad,Justin Bieber,['Justin Bieber'],0.696,0.419,9,-8.198,1,0.018,0.000818,0.211,0.353,96.482,182747,4,72,8,673
+205,2GxCTEXhba060skpicYxTk,PYD,Justin Bieber,"['Justin Bieber', 'R. Kelly']",0.465,0.494,4,-6.813,0,0.837,0.0,0.434,0.456,123.24,317200,4,161,9,1102
+206,18ws4dUbhpoGB7Uv7U89yp,Roller Coaster,Justin Bieber,['Justin Bieber'],0.705,0.865,5,-4.076,0,0.0136,0.0,0.179,0.585,97.969,201613,4,80,11,773
+207,5cn4RhNZPPjt0onhqUMEfa,Change Me,Justin Bieber,['Justin Bieber'],0.407,0.34,6,-9.018,0,0.594,0.0,0.188,0.0775,129.505,167320,3,93,6,487
+208,3JsydWaf2Ev4ehaLUjj3SY,Confident,Justin Bieber,"['Justin Bieber', 'Chance the Rapper']",0.741,0.565,5,-5.448,0,0.114,0.0,0.205,0.892,134.122,248133,4,138,12,964
+209,3MptiayBkOJblyC8geSXPE,One Life,Justin Bieber,['Justin Bieber'],0.436,0.556,1,-6.54,1,0.292,0.0,0.111,0.423,114.896,242813,3,182,12,937
+210,0jX97Hk6L8ImeVdTTWXZ2D,Backpack,Justin Bieber,"['Justin Bieber', 'Lil Wayne']",0.552,0.771,4,-6.233,0,0.154,0.0,0.19,0.46,72.566,251480,4,75,9,1009
+211,1p5M91qghUkzS4gwuMM22B,What's Hatnin',Justin Bieber,"['Justin Bieber', 'Future']",0.556,0.764,6,-3.979,0,0.0228,0.0,0.435,0.362,128.37,208533,4,110,9,930
+212,3wyrAqvuBzF3iCRzKkiTS5,Swap It Out,Justin Bieber,['Justin Bieber'],0.428,0.666,6,-6.241,0,0.0313,0.0,0.0781,0.219,118.697,240533,5,138,6,855
+213,5qHcOrOMSznBWzR8Xy1WYZ,Memphis,Justin Bieber,"['Justin Bieber', 'Big Sean']",0.642,0.718,5,-6.954,0,0.0123,0.0,0.0854,0.509,122.973,223867,4,113,8,871
+214,2GBgiuXwY1KzJMA0gSAr9J,Flatline,Justin Bieber,['Justin Bieber'],0.341,0.666,4,-5.733,0,0.482,0.0,0.194,0.36,121.677,219347,4,108,9,796
+215,4HBZA5flZLE435QTztThqH,Stuck with U (with Justin Bieber),Ariana Grande,"['Ariana Grande', 'Justin Bieber']",0.597,0.45,8,-6.658,1,0.223,0.0,0.382,0.537,178.765,228482,3,221,11,716
+216,4vaR4v3KN1NmUMdYxED8Gm,One Time,Justin Bieber,['Justin Bieber'],0.691,0.853,1,-2.528,0,0.0631,6.7e-05,0.082,0.762,145.999,215867,4,127,13,847
+217,2XwOOIMjZJYmvrdj27Z6AA,Favorite Girl,Justin Bieber,['Justin Bieber'],0.58,0.681,7,-4.469,1,0.0468,0.0,0.104,0.633,176.038,256800,4,186,12,927
+218,3H040I1iKknjbO2pU6v0zD,Down To Earth,Justin Bieber,['Justin Bieber'],0.543,0.719,2,-4.794,1,0.432,0.0,0.437,0.16,82.004,245760,4,81,13,738
+219,4coJcVR87vWbZT802k7WEm,Bigger,Justin Bieber,['Justin Bieber'],0.78,0.733,0,-2.851,0,0.164,0.0,0.341,0.895,104.085,197800,4,83,11,787
+220,4pYlyrBINcwbsBAemZ44CF,One Less Lonely Girl,Justin Bieber,['Justin Bieber'],0.555,0.75,4,-4.424,1,0.159,0.0,0.274,0.726,86.84,229107,4,80,10,920
+221,45yBkrYHYlK5ipruB8glpG,First Dance,Justin Bieber,"['Justin Bieber', 'Usher']",0.646,0.521,11,-7.29,1,0.0137,0.0,0.275,0.333,68.495,222333,4,61,9,833
+222,0x7b1iQcJchYV55o1rUrs4,Love Me,Justin Bieber,['Justin Bieber'],0.712,0.868,5,-3.319,0,0.00939,0.0,0.283,0.652,125.028,191573,4,96,8,696
+223,4CGrhVaENTqsBmfqwVpO5x,Common Denominator - iTunes Bonus,Justin Bieber,['Justin Bieber'],0.657,0.66,0,-6.544,1,0.227,0.0,0.0549,0.453,116.952,248920,4,119,14,981
+224,0VNDOpBbUYtSpCFY7HUA3D,Baby,Justin Bieber,"['Justin Bieber', 'Ludacris']",0.731,0.848,5,-5.263,0,0.0494,0.0,0.133,0.547,65.025,213973,4,57,7,745
+225,6LtrSXoBzbTF3SxcJb1Fnm,Somebody To Love,Justin Bieber,['Justin Bieber'],0.719,0.84,5,-5.235,1,0.00241,0.0,0.228,0.636,129.974,220920,4,119,9,816
+226,4vYCb6WO2RAUouHnoH8MXz,Stuck In The Moment,Justin Bieber,['Justin Bieber'],0.718,0.708,0,-6.352,0,0.15,0.0,0.156,0.452,90.024,222960,4,81,11,815
+227,0KDJBhhe2OYnnoJtbtXy1f,U Smile,Justin Bieber,['Justin Bieber'],0.705,0.605,1,-5.252,1,0.516,1.57e-06,0.117,0.419,112.505,196907,3,119,9,591
+228,0urcotWdNHFw9kKmIUlFgP,Runaway Love,Justin Bieber,['Justin Bieber'],0.743,0.633,10,-6.111,0,0.0816,0.0,0.0966,0.907,104.004,212573,4,90,10,727
+229,5sUWn4PGnXHU63cmEJDfqA,Never Let You Go,Justin Bieber,['Justin Bieber'],0.66,0.802,0,-4.856,1,0.00205,0.0,0.399,0.62,103.163,264400,4,114,14,935
+230,0GX9k4ni4IDqU1vRHVPmiw,Overboard,Justin Bieber,"['Justin Bieber', 'Jessica Jarrell']",0.479,0.79,5,-5.214,1,0.203,0.0,0.118,0.468,173.893,251187,4,180,11,953
+231,7BRsgzIz8C0VdAqANIjUhC,Eenie Meenie,Justin Bieber,"['Justin Bieber', 'Sean Kingston']",0.718,0.601,1,-4.24,1,0.0457,0.0,0.0961,0.811,121.235,202627,4,99,9,775
+232,2mMhp2EjNH48B0hIS0Te2J,Up,Justin Bieber,['Justin Bieber'],0.71,0.712,0,-4.339,1,0.0773,0.0,0.105,0.552,125.978,234933,4,119,11,788
+233,1sZjOcNqpo7T6hDf1qFACC,That Should Be Me,Justin Bieber,['Justin Bieber'],0.542,0.607,8,-5.737,1,0.21,0.0,0.169,0.226,139.954,232733,4,133,10,768
+234,6epn3r7S14KUqlReYr77hA,Baby,Justin Bieber,"['Justin Bieber', 'Ludacris']",0.728,0.859,5,-5.237,0,0.0401,0.0,0.111,0.535,65.043,214240,4,57,8,742
+235,3rLIv187BhjyweFe89SgLn,Somebody To Love,Justin Bieber,['Justin Bieber'],0.714,0.833,5,-5.239,1,0.00249,0.0,0.298,0.663,129.964,220920,4,119,10,821
+236,1DyV9obL0pPibOjW5ufg15,Stuck In The Moment,Justin Bieber,['Justin Bieber'],0.721,0.698,0,-6.353,0,0.165,0.0,0.133,0.365,89.987,222960,4,81,11,818
+237,6Xw2FLih8m5ItDbyP992HH,U Smile,Justin Bieber,['Justin Bieber'],0.705,0.59,1,-5.308,1,0.504,0.0,0.116,0.421,112.565,196907,3,120,10,587
+238,1xgN9KBVVoTNygpYjpXnvH,Runaway Love,Justin Bieber,['Justin Bieber'],0.754,0.65,10,-6.046,0,0.0833,0.0,0.177,0.924,104.023,212573,4,90,9,722
+239,01BlGnXpLuC0BjgUxVYZFb,Never Let You Go,Justin Bieber,['Justin Bieber'],0.66,0.811,0,-4.852,1,0.00141,1.17e-06,0.251,0.675,103.191,264400,4,113,14,938
+240,1tzkJMX3gNjnpcHdLD0pM3,Overboard,Justin Bieber,"['Justin Bieber', 'Jessica Jarrell']",0.479,0.788,5,-5.212,1,0.183,0.0,0.146,0.463,173.963,251187,4,179,11,955
+241,75vEuMA15pb8JmgrGugHEs,Eenie Meenie,Justin Bieber,"['Justin Bieber', 'Sean Kingston']",0.718,0.588,1,-4.192,1,0.0525,0.0,0.0991,0.812,121.22,202627,4,100,9,780
+242,7wj1Lb5ggzMWJ9TqZJ2dwo,Up,Justin Bieber,['Justin Bieber'],0.711,0.717,0,-4.317,1,0.084,0.0,0.09,0.589,125.949,234933,4,119,10,790
+243,0aPZbnkMoWJaJ5CNVLCj8S,That Should Be Me,Justin Bieber,['Justin Bieber'],0.552,0.603,8,-5.71,1,0.199,0.0,0.151,0.231,139.908,232720,4,133,12,763
+244,5GYbkDveRD2I8M5ZJ14hWn,Never Say Never,Justin Bieber,"['Justin Bieber', 'Jaden']",0.739,0.807,0,-5.063,1,0.0181,0.0,0.295,0.632,97.048,227853,4,90,11,889
+245,42wmRq3kfUUuyszlkWQbPS,That Should Be Me,Justin Bieber,"['Justin Bieber', 'Rascal Flatts']",0.467,0.631,5,-6.762,0,0.0312,0.0,0.0596,0.3,139.962,230787,4,132,10,736
+246,7IUl5c6u18rzmyQOblj10T,Somebody To Love Remix,Justin Bieber,"['Justin Bieber', 'Usher']",0.703,0.836,5,-4.619,1,0.00388,0.0,0.16,0.552,129.987,220160,4,116,10,812
+247,0NLaJkNWZARgae0ojQOOvi,Up,Justin Bieber,"['Justin Bieber', 'Chris Brown']",0.633,0.708,0,-4.258,1,0.123,0.0,0.1,0.616,62.997,235627,4,59,8,776
+248,5h4Z1fyzlAZhGPRaQz7ima,Overboard (Live),Justin Bieber,"['Justin Bieber', 'Miley Cyrus']",0.359,0.882,5,-4.482,1,0.425,0.0,0.791,0.377,173.956,307880,4,222,11,968
+249,0esMJjir6P5YsfQinJANmm,Runaway Love - Kanye West Remix,Justin Bieber,"['Justin Bieber', 'Raekwon']",0.742,0.742,1,-4.364,1,0.14,0.0,0.073,0.819,104.046,287333,4,123,11,1113
+250,1gWnUzwTMhOv4cWyj1CDxB,Born To Be Somebody,Justin Bieber,['Justin Bieber'],0.674,0.619,1,-5.239,1,0.187,0.0,0.0493,0.296,117.927,181027,4,85,10,527
+251,0QLFDSw2PQSHP7r0Slerqh,Only Thing I Ever Get For Christmas,Justin Bieber,['Justin Bieber'],0.581,0.63,10,-8.032,1,0.217,0.0,0.111,0.326,86.063,192160,4,68,10,705
+252,54K9GOVJqIaDZNXLnnxiKc,Mistletoe,Justin Bieber,['Justin Bieber'],0.657,0.56,6,-9.049,0,0.498,0.0,0.0794,0.854,161.993,182947,4,121,10,695
+253,2X3ibsXEeZ6cJdRRKJPoqO,The Christmas Song (Chestnuts Roasting On An Open Fire),Justin Bieber,"['Justin Bieber', 'Usher']",0.533,0.436,9,-9.542,0,0.45,0.0,0.102,0.169,103.477,215160,3,120,10,675
+254,46CmteSSihy091RRaj7kmb,Santa Claus Is Coming To Town,Justin Bieber,['Justin Bieber'],0.651,0.758,0,-6.584,0,0.0272,0.0,0.292,0.839,104.956,216747,4,92,7,809
+255,5kq3YD407av1s3ZHMaZIGv,Fa La La,Justin Bieber,"['Justin Bieber', 'Boyz II Men']",0.658,0.679,10,-8.606,0,0.0207,3.15e-06,0.198,0.42,94.489,185560,4,71,5,763
+256,4EUKThOTPBkrAH0gggkMn4,All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey,Justin Bieber,"['Justin Bieber', 'Mariah Carey']",0.575,0.911,9,-5.318,0,0.306,0.0,0.434,0.407,150.001,240333,4,149,11,833
+257,27hP4HbyklO2Puv0e1Am8T,Drummer Boy,Justin Bieber,"['Justin Bieber', 'Busta Rhymes']",0.752,0.85,8,-8.327,1,0.025,0.000131,0.149,0.491,122.991,225333,4,114,12,1056
+258,1lq31ZbKSc9MSFQXAVFt6Y,Christmas Eve,Justin Bieber,['Justin Bieber'],0.409,0.57,6,-10.54,0,0.687,0.0,0.173,0.336,128.657,223613,4,119,7,754
+259,4io2VXWG4fmIpsjKXWALzB,All I Want Is You,Justin Bieber,['Justin Bieber'],0.564,0.823,5,-8.65,1,0.0461,0.0,0.109,0.482,149.009,216387,4,134,10,876
+260,1lUYap3IVPOLZTAq8828F6,Home This Christmas,Justin Bieber,"['Justin Bieber', 'The Band Perry']",0.54,0.628,5,-6.502,1,0.268,0.0,0.112,0.493,140.013,204400,4,117,9,645
+261,2IBrLjMW54GQsit7s2GJaY,Silent Night,Justin Bieber,['Justin Bieber'],0.263,0.0346,3,-18.395,1,0.958,0.0,0.115,0.171,80.273,169427,4,54,7,340
+262,4BY6dDtUBweniXJXnd13Ek,Only Thing I Ever Get For Christmas,Justin Bieber,['Justin Bieber'],0.581,0.63,10,-8.032,1,0.217,0.0,0.111,0.326,86.063,192160,4,68,10,705
+263,7xapw9Oy21WpfEcib2ErSA,Mistletoe,Justin Bieber,['Justin Bieber'],0.657,0.56,6,-9.049,0,0.498,0.0,0.0794,0.854,161.993,182947,4,121,10,695
+264,3eYnKe0LhQA1B5HEkQaRTP,The Christmas Song (Chestnuts Roasting On An Open Fire),Justin Bieber,"['Justin Bieber', 'Usher']",0.533,0.436,9,-9.542,0,0.45,0.0,0.102,0.169,103.477,215160,3,120,10,675
+265,1JJUsWVriEtXr8lHSQXTIy,Santa Claus Is Coming To Town,Justin Bieber,['Justin Bieber'],0.651,0.758,0,-6.584,0,0.0272,0.0,0.292,0.839,104.956,216747,4,92,7,809
+266,5Ea0FNlMDWkraQDlfOPrDv,Fa La La,Justin Bieber,"['Justin Bieber', 'Boyz II Men']",0.658,0.679,10,-8.606,0,0.0207,3.15e-06,0.198,0.42,94.489,185560,4,71,5,763
+267,1IUtgwxLYzDVd41EgbKUjX,All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey,Justin Bieber,"['Justin Bieber', 'Mariah Carey']",0.575,0.911,9,-5.318,0,0.306,0.0,0.434,0.407,150.001,240333,4,149,11,833
+268,0Pd4lsvSDPkcNCxbcz0UeV,Drummer Boy,Justin Bieber,"['Justin Bieber', 'Busta Rhymes']",0.752,0.85,8,-8.327,1,0.025,0.000131,0.149,0.491,122.991,225333,4,114,12,1056
+269,6Zztw1ERHqXAngHE8PfO6N,Christmas Eve,Justin Bieber,['Justin Bieber'],0.409,0.57,6,-10.54,0,0.687,0.0,0.173,0.336,128.657,223613,4,119,7,754
+270,0E4rAAAzRPE8I7tYzNq99p,All I Want Is You,Justin Bieber,['Justin Bieber'],0.564,0.823,5,-8.65,1,0.0461,0.0,0.109,0.482,149.009,216387,4,134,10,876
+271,192yj763UcVbfyxFrVmIac,Home This Christmas,Justin Bieber,"['Justin Bieber', 'The Band Perry']",0.54,0.628,5,-6.502,1,0.268,0.0,0.112,0.493,140.013,204400,4,117,9,645
+272,60iHtNrA3WoJsXa1dgjGAZ,Silent Night,Justin Bieber,['Justin Bieber'],0.263,0.0346,3,-18.395,1,0.958,0.0,0.115,0.171,80.273,169080,4,54,7,340
+273,3RH9idbxUAMcUldet2ormp,Christmas Love,Justin Bieber,['Justin Bieber'],0.621,0.512,10,-8.577,1,0.518,0.0,0.328,0.372,99.887,206787,4,85,8,665
+274,60lFlh6OL0BKHxGEAoyVp7,Fa La La - (a cappella),Justin Bieber,"['Justin Bieber', 'Boyz II Men']",0.61,0.208,3,-11.879,1,0.846,0.0,0.152,0.686,94.525,175213,4,68,9,555
+275,3O5zp6tOdGFWi0NdzC0frI,Pray,Justin Bieber,['Justin Bieber'],0.569,0.797,11,-7.674,1,0.124,1.14e-06,0.105,0.664,163.972,212320,4,140,8,792
+276,1c3KqIIDoomFj4551PD1A5,Someday At Christmas,Justin Bieber,['Justin Bieber'],0.523,0.465,4,-8.57,0,0.435,0.0,0.22,0.266,100.668,173040,4,70,8,539
+277,6WgrB8d7GLBGweYLDI6ObR,All Around The World,Justin Bieber,"['Justin Bieber', 'Ludacris']",0.689,0.816,3,-3.951,0,0.019,2.42e-06,0.181,0.775,127.958,244547,4,128,15,1045
+278,3UGIZ8qcrMTwzLbx6Kttqt,Boyfriend,Justin Bieber,['Justin Bieber'],0.717,0.55,10,-6.019,0,0.0358,0.00196,0.126,0.332,96.976,171333,4,68,7,716
+279,75lo8VozcCLRG9WGG674iD,As Long As You Love Me,Justin Bieber,"['Justin Bieber', 'Big Sean']",0.571,0.873,0,-3.382,0,0.0807,0.0,0.361,0.613,139.691,229467,4,134,12,801
+280,6zvLqjSWq0AQsgoiqWInwY,Catching Feelings,Justin Bieber,['Justin Bieber'],0.327,0.542,10,-6.665,1,0.354,0.0,0.35,0.357,85.59,234680,4,82,12,852
+281,4PXOSe2WbmFhmJDiqrDw6W,Take You,Justin Bieber,['Justin Bieber'],0.663,0.706,6,-6.648,1,0.00107,0.00248,0.232,0.461,126.04,220893,4,116,10,885
+282,2Rmuzh89p29BeTIF63Opwo,Right Here,Justin Bieber,"['Justin Bieber', 'Drake']",0.639,0.57,1,-4.966,1,0.0233,0.0,0.329,0.728,92.073,204187,4,77,7,793
+283,5dQZbRbOMahlP55xeL0mNW,Fall,Justin Bieber,['Justin Bieber'],0.607,0.754,11,-4.321,1,0.259,0.0,0.111,0.607,82.995,248387,4,84,12,821
+284,2eHs8Swb16qSKatrLKnWKP,Die In Your Arms,Justin Bieber,['Justin Bieber'],0.568,0.878,7,-5.094,1,0.0309,4.26e-06,0.213,0.725,171.723,237293,4,167,9,942
+285,5xIwgIwX70gP1hJ2QLu63W,Thought Of You,Justin Bieber,['Justin Bieber'],0.697,0.705,2,-5.032,1,0.0094,6.61e-06,0.105,0.57,123.223,230107,4,116,10,815
+286,6QFCMUUq1T2Vf5sFUXcuQ7,Beauty And A Beat,Justin Bieber,"['Justin Bieber', 'Nicki Minaj']",0.601,0.843,0,-4.87,1,0.000704,5.27e-05,0.0681,0.534,128.002,227987,4,122,13,770
+287,3vpXclZrJxC8Zlj7N7OyfN,One Love,Justin Bieber,['Justin Bieber'],0.688,0.612,11,-7.558,1,0.00276,0.0,0.0942,0.228,127.916,234493,4,124,9,912
+288,4DmJUNY2LJhbl4ClUpa38T,Be Alright,Justin Bieber,['Justin Bieber'],0.803,0.356,5,-9.026,0,0.587,0.0,0.16,0.738,106.952,189653,4,83,9,622
+289,6ImYcmDP7WamwVBbZeHUTy,Believe,Justin Bieber,['Justin Bieber'],0.519,0.854,0,-5.71,1,0.143,0.0,0.171,0.508,159.805,222213,4,144,11,772
+290,3F1P0QzdXtBz0MXy7KIO5w,Fever,Dua Lipa,"['Dua Lipa', 'Angèle']",0.868,0.693,6,-7.052,0,0.0597,0.00399,0.106,0.396,114.999,156911,4,74,8,755
+291,6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry,"['Joel Corry', 'MNEK']",0.734,0.874,8,-3.158,1,0.168,1.14e-05,0.0489,0.905,122.953,166028,4,83,6,686
+292,35mvY5S1H3J2QZyna3TFe0,positions,Ariana Grande,['Ariana Grande'],0.737,0.802,0,-4.771,1,0.468,0.0,0.0931,0.682,144.015,172325,4,101,8,662
+293,6YzQOngfcV0W9F8UOTnEEK,Bande organisée,13 Organisé,"['13 Organisé', 'SCH', 'Kofs', 'Jul', 'Naps', 'Soso Maness', 'Elams', 'Solda', 'Houari']",0.901,0.939,6,-2.762,1,0.117,0.0,0.0643,0.805,142.948,356347,4,212,16,1682
+294,4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),Cardi B,"['Cardi B', 'Megan Thee Stallion']",0.935,0.454,1,-7.509,1,0.0194,0.0,0.0824,0.357,133.073,187541,4,103,10,754
+295,0t1kP63rueHleOhQkYSXFY,Dynamite,BTS,['BTS'],0.746,0.765,6,-4.41,0,0.0112,0.0,0.0936,0.737,114.044,199054,4,92,10,766
+296,2MlOUXmcofMackX3bxfSwi,Jerusalema (feat. Nomcebo Zikode),Master KG,"['Master KG', 'Nomcebo Zikode']",0.88,0.483,1,-7.012,1,0.0185,8.75e-06,0.0607,0.827,124.009,342613,4,176,14,1420
+297,1xQ6trAsedVPCdbtDAmk0c,Savage Love (Laxed - Siren Beat),Jawsh 685,"['Jawsh 685', 'Jason Derulo']",0.767,0.481,0,-8.52,0,0.234,0.0,0.269,0.761,150.076,171375,4,104,6,655
+298,1yoMvmasuxZfqHEipJhRbp,Hawái,Maluma,['Maluma'],0.783,0.727,6,-3.454,0,0.185,2.46e-05,0.0626,0.558,180.067,199112,4,150,9,909
+299,5J7E7oivyvyxGfHYfb6Cdd,ANIMAL,FEVER 333,['FEVER 333'],0.612,0.867,5,-6.017,1,0.00244,0.0,0.0822,0.661,91.531,203733,4,74,9,805
